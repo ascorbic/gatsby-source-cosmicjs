@@ -26,6 +26,8 @@ exports.sourceNodes = async (
     createNode,
   }
 
+  console.log(webhookBody)
+
   /*
    * Gatsby preview code path!
    */
